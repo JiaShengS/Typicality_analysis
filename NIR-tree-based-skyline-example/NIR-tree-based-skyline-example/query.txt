@@ -1,0 +1,4 @@
+33.3306902^-111.9785992^Dental by Design Ahwatukee Dentists General Dentistry Health & Medical Oral Surgeons Cosmetic Dentists Orthodontists^0.2^0.8
+33.3831468^-111.9647254^Sports Authority Tempe Sporting Goods Shopping^0.3^0.7
+48.7272^9.14795^Messina Stuttgart Italian Restaurants^0.4^0.6
+36.1974844^-115.2496601^Soccer Zone Las Vegas Shopping Sporting Goods^0.4^0.6

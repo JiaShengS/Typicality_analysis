@@ -1,0 +1,100 @@
+1^33.3306902^-111.9785992^Dental by Design Ahwatukee Dentists General Dentistry Health & Medical Oral Surgeons Cosmetic Dentists Orthodontists^0.14^0.22
+2^40.2916853^-80.1048999^Stephen Szabo Salon McMurray Hair Stylists Hair Salons Men's Hair Salons Blow Dry/Out Services Hair Extensions Beauty & Spas^0.78^0.09
+3^33.5249025^-112.1153098^Western Motor Vehicle Phoenix Departments of Motor Vehicles Public Services & Government^0.81^0.98
+4^33.3831468^-111.9647254^Sports Authority Tempe Sporting Goods Shopping^0.82^0.03
+5^41.1195346^-81.4756898^Brick House Tavern + Tap Cuyahoga Falls American (New) Nightlife Bars Sandwiches American (Traditional) Burgers Restaurants^0.61^0.9
+6^48.7272^9.14795^Messina Stuttgart Italian Restaurants^0.95^0.73
+7^36.20743^-115.26846^BDJ Realty Las Vegas Real Estate Services Real Estate Home Services Property Management^0.77^0.82
+8^36.1974844^-115.2496601^Soccer Zone Las Vegas Shopping Sporting Goods^0.55^0.35
+9^40.6151022445^-80.0913487465^Any Given Sundae Wexford Coffee & Tea Ice Cream & Frozen Yogurt Food^0.81^0.49
+10^36.0558252127^-115.04635039^Detailing Gone Mobile Henderson Automotive Auto Detailing^0.02^0.99
+11^40.2415480142^-80.2128151059^East Coast Coffee Houston Breakfast & Brunch Gluten-Free Coffee & Tea Food Restaurants Sandwiches^0.69^0.79
+12^33.2717201^-111.7912569^CubeSmart Self Storage Chandler Local Services Self Storage^0.01^0.01
+13^43.8751774^-79.2601532^T & T Bakery and Cafe Markham Bakeries Bagels Food^0.25^0.46
+14^40.4014882^-79.8879161^Complete Dental Care Homestead General Dentistry Dentists Endodontists Cosmetic Dentists Health & Medical Orthodontists^0.5^0.62
+15^35.2216474^-80.8393449^Showmars Government Center Charlotte Restaurants American (Traditional)^0.69^0.14
+16^43.7113993^-79.3993388^Alize Catering Toronto Italian French Restaurants^0.06^0.12
+17^33.6086538^-112.2400118^T & Y Nail Spa Peoria Beauty & Spas Nail Salons^0.09^0.6
+18^43.18508^-89.262047^Meineke Car Care Center Sun Prairie Tires Oil Change Stations Auto Repair Automotive^0.41^0.03
+19^33.463629^-112.347038^Senior's Barber Shop Goodyear Barbers Beauty & Spas^0.39^0.86
+20^43.8675648^-79.4126618^Maxim Bakery & Restaurant Richmond Hill French Food Bakeries Restaurants^0.04^0.96
+21^43.6398633116^-79.4195331865^Starbucks Toronto Food Coffee & Tea^0.6^0.32
+22^33.3801334^-111.7887679^Fye Mesa Shopping Books Mags Music & Video Music & DVDs^0.41^0.01
+23^33.4354634^-112.0069893^TSA Checkpoint T-4 A - Phoenix Sky Harbor International Airport Phoenix Public Services & Government^0.05^0.58
+24^43.5927528^-79.6430158^GoodLife Fitness Mississauga Fitness & Instruction Sports Clubs Gyms Trainers Active Life^0.03^0.68
+25^43.6828673^-79.3269639^Sportster's Toronto Bars Sports Bars Nightlife^0.03^0.67
+26^43.6692562^-79.3359022^Chula Taberna Mexicana Toronto Tiki Bars Nightlife Mexican Restaurants Bars^0.65^0.04
+27^36.0850508374^-115.119420802^Alfredo's Jewelry Las Vegas Shopping Jewelry Watch Repair Local Services^0.39^0.28
+28^43.6567287^-79.3807182^DAVIDsTEA Toronto Coffee & Tea Food Tea Rooms^0.11^0.75
+29^41.343078^-82.06714^Panera Bread Elyria Soup Salad Sandwiches Restaurants^0.46^0.69
+30^35.0472868^-80.9905588^Toast Cafe Fort Mill Food American (Traditional) Coffee & Tea Restaurants^0.6^0.03
+31^43.7818155^-79.4904331^Sunnyside Grill Toronto Restaurants Breakfast & Brunch^0.71^0.52
+32^33.6008771^-112.0376849^Good Brakes Automotive Phoenix Oil Change Stations Smog Check Stations Automotive Auto Repair^0.07^0.82
+33^45.5067722126^-73.5667249688^Le Bistro Balmoral Montreal Arts & Entertainment Festivals Restaurants French Gastropubs^0.56^0.31
+34^43.6615816807^-79.4088784561^Bampot House of Tea & Board Games Toronto Coffee & Tea Restaurants Food Mediterranean Tea Rooms^0.57^0.59
+35^34.9570617825^-80.8539120108^Bubbly Nails Fort Mill Nail Salons Beauty & Spas^0.03^0.18
+36^41.136622^-81.4392592^Brewster's Pub Munroe Falls Nightlife Pubs Bars^0.16^0.74
+37^33.8039^-112.130405^Kool Pool Care & Repair Phoenix Home Services Contractors Pool & Hot Tub Service Pool Cleaners^0.96^0.44
+38^36.0194946^-115.0947223^Pampered Hair Passionate about Hair Henderson Hair Salons Blow Dry/Out Services Hair Stylists Beauty & Spas Hair Extensions^0.19^0.9
+39^35.0735981^-80.8815165^By Design Pineville Home & Garden Furniture Stores Shopping^0.63^0.66
+40^33.6218351^-111.9155977^Ciao Baby Catering Scottsdale Event Planning & Services Caterers^0.59^0.01
+41^41.4768463^-81.7869709^Yuzu Lakewood Nightlife Izakaya Comfort Food Cocktail Bars Asian Fusion Bars Japanese Restaurants Gastropubs Tapas/Small Plates^0.37^0.64
+42^36.056382^-115.269332^Task Electric Las Vegas Home Services Lighting Fixtures & Equipment Local Services Electricians TV Mounting^0.74^0.25
+43^35.5012273^-80.8609494^TCBY Davidson Desserts Ice Cream & Frozen Yogurt Food^0.19^0.59
+44^33.7416293^-111.9809164^Olsen Firearms Cave Creek Shopping Guns & Ammo^0.11^0.61
+45^40.0410025289^-75.5424965117^Carrabba's Italian Grill Frazer Restaurants Italian Seafood^0.79^0.97
+46^33.6070702^-112.0643825^McDonald's Phoenix Fast Food Burgers Restaurants^0.92^0.19
+47^33.60731^-112.063404^Charr An American Burger Bar Phoenix Burgers Restaurants^0.13^0.66
+48^43.0731452^-89.4344018^William Jon Salon & Spa Madison Tanning Day Spas Spray Tanning Beauty & Spas Hair Salons^0.89^0.96
+49^36.105196^-115.0568796^Star Nursery Las Vegas Nurseries & Gardening Home & Garden Shopping^0.25^0.55
+50^36.1169648^-115.185696^Rock of Ages Las Vegas Arts & Entertainment Performing Arts^0.27^0.86
+51^45.5328965^-73.6136037^Restaurant Lucca Montréal Italian Restaurants^0.41^0.55
+52^40.409116^-79.897415^Enterprise Rent-A-Car Homestead Hotels & Travel Car Rental^0.02^0.56
+53^36.0669136^-115.1708484^Flight Deck Bar & Grill Las Vegas Nightlife Bars Barbeque Sports Bars American (New) Restaurants^0.72^0.75
+54^36.0646523^-115.1189541^Subway Las Vegas Fast Food Restaurants Sandwiches^0.7^0.13
+55^36.0682585154^-115.1788768^GameWorks Las Vegas Arcades Arts & Entertainment Gastropubs Restaurants American (New)^0.31^0.78
+56^45.4932164^-73.5803794^Don Taco Montreal Restaurants Mexican^0.72^0.26
+57^35.220211^-80.855785^My Fitness World Charlotte Active Life Fitness & Instruction Gyms^0.98^0.87
+58^43.867918^-79.2836865^Kitchen M Markham Restaurants Chinese^0.11^0.51
+59^43.6832129897^-79.3919422965^Amy's Lash & Beauty Spa Toronto Eyelash Service Beauty & Spas^0.43^0.03
+60^36.1366387^-115.1845851^Kool Radiator Service Las Vegas Automotive Auto Repair^0.61^0.4
+61^36.142544^-115.2687306^John Armond Actor's Studio Las Vegas Education Performing Arts Specialty Schools Art Schools Arts & Entertainment^0.42^0.94
+62^36.1725319^-115.197258^Cinnabon Las Vegas Food Coffee & Tea Desserts^0.71^0.36
+63^41.1804849^-81.5094524^Falls Auto Body Cuyahoga Falls Automotive Body Shops Auto Glass Services^0.02^0.71
+64^40.1105875^-88.2072697^D&D Cleaning Urbana Home Cleaning Home Services Window Washing^0.87^0.97
+65^40.472735^-79.9632647^River Moon Cafe Pittsburgh Cafes Restaurants^0.98^0.66
+66^43.646954^-79.382159^Pil Son Toronto Health & Medical General Dentistry Dentists^0.62^0.55
+67^33.640227^-112.3957^Crazy Kleen Carpet Cleaning Surprise Office Cleaning Carpet Cleaning Professional Services Home Cleaning Home Services Local Services^0.79^0.16
+68^35.4802886^-80.8857059^KS Audio Video Cornelius Home Services Television Service Providers Home Automation Home Theatre Installation Professional Services^0.59^0.3
+69^55.9624442^-3.1976623^The Bluebird Cafe Edinburgh Breakfast & Brunch Diners Restaurants Cafes British^0.01^0.47
+70^41.5242686^-81.3379626^LaPuma Bakery Chesterland Bakeries Food^0.99^0.01
+71^40.116627^-88.2147631^Carle Clinic Association Urbana Doctors Health & Medical^0.2^0.72
+72^33.5063676^-112.0335679^Christopher Huston, MD - TOCA Phoenix Orthopedists Health & Medical Doctors^0.86^0.55
+73^33.5087649^-112.04624^McDonald's Phoenix Restaurants Burgers Fast Food^0.31^0.38
+74^33.6569065^-111.9298903^Sports Authority Phoenix Sporting Goods Shopping^0.99^0.85
+75^43.0570896^-89.5092997^Banana Republic Madison Men's Clothing Women's Clothing Fashion Shopping^0.9^0.54
+76^40.4692949^-79.9612733^Crazy Mocha Coffee Pittsburgh Restaurants Sandwiches Coffee & Tea Food^0.24^0.62
+77^40.3441937^-79.970963^Bruegger's Bagels Pittsburgh Breakfast & Brunch Bagels Restaurants Bakeries Sandwiches Food^0.6^0.92
+78^35.147422^-80.726487^Fairfield Inn & Suites Charlotte Hotels Event Planning & Services Hotels & Travel^0.59^0.76
+79^33.5369186^-112.1522269^G G & D Motor Vehicle Services Glendale Shopping Public Services & Government Departments of Motor Vehicles^0.76^0.83
+80^33.4062365^-111.9266226^Emergency Chiropractic Tempe Health & Medical Chiropractors^0.73^0.57
+81^33.3948766^-111.6001938^Little Caesars Pizza Mesa Restaurants Pizza^0.15^0.83
+82^43.1233893^-89.3553901^Villa Tap Madison American (Traditional) Nightlife Dive Bars Restaurants Bars^0.54^0.67
+83^36.1193098^-115.1717702^Tenors of Rock Las Vegas Performing Arts Arts & Entertainment^0.94^0.49
+84^36.1213295255^-115.175283886^Starlight Tattoo Las Vegas Beauty & Spas Piercing Tattoo^0.44^0.33
+85^35.1608893^-80.8492598^Scott's Karat Patch Charlotte Watch Repair Jewelry Repair Shopping Local Services Jewelry^0.63^0.01
+86^43.0798171^-89.3762962^The Brink Lounge Madison Event Planning & Services Nightlife Lounges Venues & Event Spaces Bars^0.87^0.61
+87^43.7748776774^-79.4946187281^Thai Express Toronto Imported Food Specialty Food Thai Ethnic Food Food Restaurants^0.73^0.42
+88^41.6777682^-81.3068638^Havel's Flowers & Greenhouses Mentor Florists Wholesale Stores Shopping Flowers & Gifts^0.04^0.6
+89^33.4499672^-112.0702225^Caviness Studio Phoenix Marketing Men's Clothing Restaurants Graphic Design Women's Clothing Screen Printing Advertising Pizza Shopping Web Design Fashion Local Services Screen Printing/T-Shirt Printing Professional Services^0.47^0.54
+90^41.3985053^-81.8532205^International Exposition Center Cleveland Venues & Event Spaces Event Planning & Services^0.59^0.57
+91^43.8643333797^-79.3824108582^Fraticelli's Authentic Italian Grill Richmond Hill Restaurants Italian^0.04^0.53
+92^36.1110572^-115.2416881^Cafe Mastrioni Las Vegas Italian Restaurants^0.58^0.85
+93^33.459458^-111.642224^Poty Group Mesa Real Estate Agents Home Services Real Estate^0.14^0.45
+94^33.437983^-111.682477^Dayton Family Medicine Mesa Optometrists Doctors Internal Medicine Health & Medical^0.44^0.99
+95^41.392049^-81.4426351^Mitchell's Ice Cream - Solon Shop Solon Ice Cream & Frozen Yogurt Food^0.16^0.92
+96^33.438755^-111.832382^City of Mesa Cemetary Mesa Religious Organizations^0.42^0.56
+97^43.7870613^-79.2761657^Flavor Cuisine Toronto Restaurants Chinese Food Court^0.12^0.31
+98^35.137223^-80.734594^La Isla Cuban Restaurant Charlotte Restaurants Cuban^0.64^0.9
+99^40.444236^-79.998325^Blush Pittsburgh Nightlife Adult Entertainment Strip Clubs^0.52^0.81
+100^33.6102929^-111.9765967^Conservatory of Dance Phoenix Education Dance Schools Arts & Entertainment Fitness & Instruction Specialty Schools Active Life Dance Studios Performing Arts^0.62^0.8

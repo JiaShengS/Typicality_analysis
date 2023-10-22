@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cae0433-55ac-4caf-a874-15b23d0d7e02" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_example$IRTree.coverage" NAME="IRTree Coverage Results" MODIFIED="1590473715722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_example$drawPicture.coverage" NAME="drawPicture Coverage Results" MODIFIED="1589716081843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$similarityTest.coverage" NAME="similarityTest Coverage Results" MODIFIED="1569238827961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$RtreeQuery.coverage" NAME="RtreeQuery Coverage Results" MODIFIED="1573910480960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$runSumTree.coverage" NAME="runSumTree Coverage Results" MODIFIED="1574416707186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$business.coverage" NAME="business Coverage Results" MODIFIED="1573910400210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_example$similarityTest.coverage" NAME="similarityTest Coverage Results" MODIFIED="1590417749880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_example$RtreeQuery.coverage" NAME="RtreeQuery Coverage Results" MODIFIED="1590490458908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process$similarityTest.coverage" NAME="similarityTest Coverage Results" MODIFIED="1588731236239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_example$business__1_.coverage" NAME="business (1) Coverage Results" MODIFIED="1590474743699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$dataProcess.coverage" NAME="dataProcess Coverage Results" MODIFIED="1574771866855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RtreeQuery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="385" lean-forward="true" selection-start-line="385" selection-end-line="385" />
+              <folding>
+                <element signature="e#77#92#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log.txt">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="298">
+              <caret line="9496" column="57" lean-forward="true" selection-start-line="9496" selection-start-column="57" selection-end-line="9496" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rtree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rtreeBuilder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="136" column="47" selection-start-line="136" selection-start-column="47" selection-end-line="136" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/query.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="148" selection-start-column="148" selection-end-column="148" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>keywords</find>
+      <find>0x1220efb90</find>
+      <find>0x120898ed0</find>
+      <find>scoreFirst</find>
+      <find>0x11c7c3ad0</find>
+      <find>findLeaf</find>
+      <find>sorted</find>
+      <find>answerNnQueries</find>
+      <find>0x118e93f90</find>
+      <find>0x118ebd910</find>
+      <find>NodeScore</find>
+      <find>0x11c609250</find>
+      <find>0x11c62bc10</find>
+      <find>0x12396dd50</find>
+      <find>0x11c502bd0</find>
+      <find>0x119862910</find>
+      <find>0x119862950</find>
+      <find>0x11bb2c210</find>
+      <find>0x119f23050</find>
+      <find>0x11986d310</find>
+      <find>0x10a778f90</find>
+      <find>0x10a74b3d0</find>
+      <find>0x1151242d0</find>
+      <find>0x11d4ef250</find>
+      <find>0x11bc5b2d0</find>
+      <find>0x11df314d0</find>
+      <find>Bvalue</find>
+      <find>getTopK</find>
+      <find>Restaurants</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../cosine_similarity-master/quora.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/test/test2.py" />
+        <option value="$PROJECT_DIR$/test/question.py" />
+        <option value="$PROJECT_DIR$/test/tt.txt" />
+        <option value="$PROJECT_DIR$/test/questionFormat.py" />
+        <option value="$PROJECT_DIR$/datasetBuilder.py" />
+        <option value="$PROJECT_DIR$/stopwords.txt" />
+        <option value="$PROJECT_DIR$/business.txt" />
+        <option value="$PROJECT_DIR$/../R-tree+skyline+wordEmbedding/GenerateQuery.py" />
+        <option value="$PROJECT_DIR$/a.txt" />
+        <option value="$PROJECT_DIR$/drawPicture10.py" />
+        <option value="$PROJECT_DIR$/drawPicture7.py" />
+        <option value="$PROJECT_DIR$/drawPicture4.py" />
+        <option value="$PROJECT_DIR$/drawPicture3.py" />
+        <option value="$PROJECT_DIR$/drawPicture2.py" />
+        <option value="$PROJECT_DIR$/drawPicture.py" />
+        <option value="$PROJECT_DIR$/uybuy.txt" />
+        <option value="$PROJECT_DIR$/sim.txt" />
+        <option value="$PROJECT_DIR$/GenerateQuery.py" />
+        <option value="$PROJECT_DIR$/business50.txt" />
+        <option value="$PROJECT_DIR$/readSim.py" />
+        <option value="$PROJECT_DIR$/results.txt" />
+        <option value="$PROJECT_DIR$/sss.txt" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/geotest.py" />
+        <option value="$PROJECT_DIR$/map.py" />
+        <option value="$PROJECT_DIR$/test/business.py" />
+        <option value="$PROJECT_DIR$/SumTreeTest.py" />
+        <option value="$PROJECT_DIR$/runSumTree.py" />
+        <option value="$PROJECT_DIR$/CrimeData400.csv" />
+        <option value="$PROJECT_DIR$/dataProcess.py" />
+        <option value="$PROJECT_DIR$/IRTree.py" />
+        <option value="$PROJECT_DIR$/quora.py" />
+        <option value="$PROJECT_DIR$/POITest.txt" />
+        <option value="$PROJECT_DIR$/queryTest.txt" />
+        <option value="$PROJECT_DIR$/similarityTest.py" />
+        <option value="$PROJECT_DIR$/resultTest.txt" />
+        <option value="$PROJECT_DIR$/business.py" />
+        <option value="$PROJECT_DIR$/query.txt" />
+        <option value="$PROJECT_DIR$/result.txt" />
+        <option value="$PROJECT_DIR$/Rtree.py" />
+        <option value="$PROJECT_DIR$/rtreeBuilder.py" />
+        <option value="$PROJECT_DIR$/RtreeQuery.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="101" />
+    <option name="width" value="1360" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="R-tree-based-skyline-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R-tree-based-skyline-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\Study\R-tree-based-skyline-process-master" />
+      <recent name="D:\Study\R-tree-based-skyline-process-master\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.RtreeQuery">
+    <configuration name="IRTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="R-tree-based-skyline-process-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IRTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RtreeQuery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="R-tree-based-skyline-process-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RtreeQuery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="business (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="R-tree-based-skyline-process-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/business.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drawPicture" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="R-tree-based-skyline-process-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawPicture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="similarityTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="R-tree-based-skyline-process-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/similarityTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.similarityTest" />
+      <item itemvalue="Python.RtreeQuery" />
+      <item itemvalue="Python.business (1)" />
+      <item itemvalue="Python.IRTree" />
+      <item itemvalue="Python.drawPicture" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RtreeQuery" />
+        <item itemvalue="Python.business (1)" />
+        <item itemvalue="Python.IRTree" />
+        <item itemvalue="Python.similarityTest" />
+        <item itemvalue="Python.drawPicture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cae0433-55ac-4caf-a874-15b23d0d7e02" name="Default Changelist" comment="" />
+      <created>1561128381776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561128381776</updated>
+      <workItem from="1561128394181" duration="203000" />
+      <workItem from="1561128659802" duration="15541000" />
+      <workItem from="1561253660422" duration="753000" />
+      <workItem from="1561254936397" duration="1115000" />
+      <workItem from="1561272418638" duration="27169000" />
+      <workItem from="1561377457954" duration="787000" />
+      <workItem from="1561462644424" duration="2230000" />
+      <workItem from="1561510408634" duration="1302000" />
+      <workItem from="1561552535888" duration="17000" />
+      <workItem from="1561552800844" duration="441000" />
+      <workItem from="1561554140425" duration="27000" />
+      <workItem from="1561554184852" duration="11000" />
+      <workItem from="1561554601625" duration="366000" />
+      <workItem from="1561555395138" duration="694000" />
+      <workItem from="1561594618674" duration="6566000" />
+      <workItem from="1561601237004" duration="755000" />
+      <workItem from="1561602383911" duration="1230000" />
+      <workItem from="1561603728669" duration="7798000" />
+      <workItem from="1561614906654" duration="1336000" />
+      <workItem from="1561617027048" duration="5665000" />
+      <workItem from="1561628961914" duration="1477000" />
+      <workItem from="1561634220823" duration="500000" />
+      <workItem from="1567581664016" duration="113000" />
+      <workItem from="1567752452400" duration="565000" />
+      <workItem from="1568620512645" duration="1736000" />
+      <workItem from="1568632088295" duration="173000" />
+      <workItem from="1569238624103" duration="266000" />
+      <workItem from="1571317435505" duration="212000" />
+      <workItem from="1571317743980" duration="444000" />
+      <workItem from="1573871097142" duration="11138000" />
+      <workItem from="1573948811748" duration="1742000" />
+      <workItem from="1573953430822" duration="866000" />
+      <workItem from="1574040094079" duration="2903000" />
+      <workItem from="1574389321334" duration="6382000" />
+      <workItem from="1574770939433" duration="542000" />
+      <workItem from="1588728205553" duration="3104000" />
+      <workItem from="1588732061475" duration="6797000" />
+      <workItem from="1588755885890" duration="2761000" />
+      <workItem from="1588772485736" duration="284000" />
+      <workItem from="1589160154467" duration="462000" />
+      <workItem from="1589339255838" duration="1677000" />
+      <workItem from="1589419541859" duration="5020000" />
+      <workItem from="1589432218177" duration="4462000" />
+      <workItem from="1589442673338" duration="61000" />
+      <workItem from="1589703048045" duration="1865000" />
+      <workItem from="1589716053419" duration="1507000" />
+      <workItem from="1589791721021" duration="697000" />
+      <workItem from="1589850591751" duration="791000" />
+      <workItem from="1589965247316" duration="1716000" />
+      <workItem from="1590114370025" duration="62000" />
+      <workItem from="1590114781235" duration="18000" />
+      <workItem from="1590118893409" duration="1275000" />
+      <workItem from="1590120197234" duration="546000" />
+      <workItem from="1590120839655" duration="105000" />
+      <workItem from="1590121948152" duration="54000" />
+      <workItem from="1590124489235" duration="517000" />
+      <workItem from="1590131533087" duration="231000" />
+      <workItem from="1590375089046" duration="159000" />
+      <workItem from="1590379222259" duration="213000" />
+      <workItem from="1590379438941" duration="1610000" />
+      <workItem from="1590383525621" duration="349000" />
+      <workItem from="1590385236732" duration="3822000" />
+      <workItem from="1590390560141" duration="4836000" />
+      <workItem from="1590395740284" duration="5712000" />
+      <workItem from="1590413398391" duration="10121000" />
+      <workItem from="1590467389214" duration="8152000" />
+      <workItem from="1590488754777" duration="1867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="173918000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="22" y="101" width="1360" height="739" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14188164" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921174" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848256" weight="0.3431221" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39721793" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015175" side_tool="true" weight="0.316847" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.09180576" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/business.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$GenerateQuery__1_.coverage" NAME="GenerateQuery (1) Coverage Results" MODIFIED="1561289314190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../R-tree+skyline+wordEmbedding" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$RtreeQuery.coverage" NAME="RtreeQuery Coverage Results" MODIFIED="1561621103286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$Rtree.coverage" NAME="Rtree Coverage Results" MODIFIED="1561289042097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$drawPicture7.coverage" NAME="drawPicture7 Coverage Results" MODIFIED="1561629028722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$test.coverage" NAME="test Coverage Results" MODIFIED="1561207187977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$business.coverage" NAME="business Coverage Results" MODIFIED="1561285123349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$drawPicture2.coverage" NAME="drawPicture2 Coverage Results" MODIFIED="1561629150063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$datasetBuilder.coverage" NAME="datasetBuilder Coverage Results" MODIFIED="1561276923200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$rtreeBuilder.coverage" NAME="rtreeBuilder Coverage Results" MODIFIED="1561282868347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$quora.coverage" NAME="quora Coverage Results" MODIFIED="1561207622994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$SkylineDrawer.coverage" NAME="SkylineDrawer Coverage Results" MODIFIED="1561362661808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$drawPicture3.coverage" NAME="drawPicture3 Coverage Results" MODIFIED="1561629115391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1561207282995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$readSim.coverage" NAME="readSim Coverage Results" MODIFIED="1561609326967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$business__1_.coverage" NAME="business (1) Coverage Results" MODIFIED="1561289507734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$questionFormat.coverage" NAME="questionFormat Coverage Results" MODIFIED="1561256069520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$drawPicture4.coverage" NAME="drawPicture4 Coverage Results" MODIFIED="1561629077404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$drawPicture.coverage" NAME="drawPicture Coverage Results" MODIFIED="1561634715231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$drawPicture10.coverage" NAME="drawPicture10 Coverage Results" MODIFIED="1561628986046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_tree_based_skyline_process_master$GenerateQuery.coverage" NAME="GenerateQuery Coverage Results" MODIFIED="1561610974247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/poiVisualize.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qK.png" />
+    <entry file="file://$PROJECT_DIR$/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uybuy.txt" />
+    <entry file="file://$PROJECT_DIR$/drawPicture7.py" />
+    <entry file="file://$PROJECT_DIR$/drawPicture10.py" />
+    <entry file="file://$PROJECT_DIR$/drawPicture4.py" />
+    <entry file="file://$PROJECT_DIR$/drawPicture2.py" />
+    <entry file="file://$PROJECT_DIR$/drawPicture.py" />
+    <entry file="file://$PROJECT_DIR$/ssstest.txt" />
+    <entry file="file://$PROJECT_DIR$/sss.txt" />
+    <entry file="file://$PROJECT_DIR$/te.csv" />
+    <entry file="file://$PROJECT_DIR$/test.png" />
+    <entry file="file://$PROJECT_DIR$/poiVisualize1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.py" />
+    <entry file="file://$PROJECT_DIR$/geotest.py" />
+    <entry file="file://$PROJECT_DIR$/attr50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasetBuilder.py" />
+    <entry file="file://$PROJECT_DIR$/dataProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readCSV.py" />
+    <entry file="file://$PROJECT_DIR$/writeCSV.py" />
+    <entry file="file://$PROJECT_DIR$/train.csv" />
+    <entry file="file://$PROJECT_DIR$/GenerateQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readSim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-523">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumTreeTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkylineDrawer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sim.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IRTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POITest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keywords.csv" />
+    <entry file="file://$PROJECT_DIR$/businessWithoutRow.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keywords.txt" />
+    <entry file="file://$PROJECT_DIR$/business.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/similarityTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="274" column="6" selection-start-line="274" selection-start-column="6" selection-end-line="274" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultsTest.txt" />
+    <entry file="file://$PROJECT_DIR$/resultTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queryTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="81" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business100.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="148" selection-start-column="148" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rtreeBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="136" column="47" selection-start-line="136" selection-start-column="47" selection-end-line="136" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="298">
+          <caret line="9496" column="57" lean-forward="true" selection-start-line="9496" selection-start-column="57" selection-end-line="9496" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RtreeQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="385" lean-forward="true" selection-start-line="385" selection-end-line="385" />
+          <folding>
+            <element signature="e#77#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

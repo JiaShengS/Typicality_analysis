@@ -1,0 +1,253 @@
+restaurants@shopping@food@nightlife
+food@restaurants@shopping@nightlife
+shopping@restaurants@food@nightlife
+nightlife@restaurants@food@shopping
+beauty & spas@restaurants@food@nightlife
+bars@restaurants@nightlife@food
+coffee & tea@restaurants@food@shopping
+health & medical@restaurants@nightlife@food
+home services@restaurants@nightlife@shopping
+sandwiches@restaurants@nightlife@shopping
+italian@restaurants@food@coffee & tea
+local services@restaurants@shopping@coffee & tea
+arts & entertainment@restaurants@food@coffee & tea
+automotive@restaurants@nightlife@food
+american (traditional)@shopping@restaurants@coffee & tea
+burgers@food@restaurants@shopping
+breakfast & brunch@restaurants@shopping@bars
+bakeries@restaurants@nightlife@shopping
+event planning & services@restaurants@shopping@food
+performing arts@restaurants@nightlife@shopping
+dentists@restaurants@shopping@food
+general dentistry@shopping@sandwiches@restaurants
+hair salons@restaurants@nightlife@food
+public services & government@nightlife@restaurants@food
+sporting goods@restaurants@beauty & spas@food
+american (new)@restaurants@food@coffee & tea
+ice cream & frozen yogurt@nightlife@restaurants@food
+french@home services@coffee & tea@bars
+auto repair@coffee & tea@restaurants@food
+fitness & instruction@food@restaurants@bars
+active life@restaurants@shopping@bars
+gastropubs@restaurants@coffee & tea@home services
+fast food@coffee & tea@food@restaurants
+professional services@shopping@restaurants@coffee & tea
+doctors@coffee & tea@restaurants@nightlife
+cosmetic dentists@restaurants@shopping@nightlife
+orthodontists@restaurants@home services@nightlife
+hair stylists@food@restaurants@coffee & tea
+blow dry/out services@mags@bdj realty@office cleaning
+hair extensions@auto detailing@tcby@nightlife
+departments of motor vehicles@beauty & spas@nightlife@dentists
+sports authority@sporting goods@real estate@performing arts
+real estate@italian@restaurants@coffee & tea
+bagels@shopping@dentists@nightlife
+nail salons@cosmetic dentists@coffee & tea@sandwiches
+oil change stations@restaurants@shopping@food
+gyms@beauty & spas@food@restaurants
+sports bars@coffee & tea@restaurants@shopping
+mexican@doctors@shopping@dentists
+jewelry@restaurants@cosmetic dentists@watch repair
+watch repair@restaurants@food@burgers
+tea rooms@restaurants@food@shopping
+home & garden@italian@coffee & tea@food
+desserts@doctors@food@health & medical
+mcdonald's@bars@burgers@restaurants
+hotels & travel@bars@food@nightlife
+chinese@nightlife@shopping@restaurants
+education@nightlife@restaurants@food
+specialty schools@dentists@food@restaurants
+home cleaning@event planning & services@arts & entertainment@food
+cafes@restaurants@food@nightlife
+men's clothing@general dentistry@the bluebird cafe@mags
+women's clothing@restaurants@food@coffee & tea
+fashion@cosmetic dentists@screen printing/t-shirt printing@performing arts
+pizza@restaurants@food@local services
+venues & event spaces@local services@active life@chinese
+dental by design@shopping@active life@food
+oral surgeons@performing arts@health & medical@italian
+stephen szabo salon@mcdonald's@doctors@hotels & travel
+men's hair salons@home cleaning@hair stylists@international exposition center
+western motor vehicle@bakeries@coffee & tea@bars
+brick house tavern + tap@health & medical@guns & ammo@wholesale stores
+messina@bagels@cosmetic dentists@public services & government
+bdj realty@automotive@food@event planning & services
+real estate services@cafes@public services & government@nightlife
+property management@coffee & tea@arcades@cafes
+soccer zone@restaurants@food@nightlife
+any given sundae@specialty food@oil change stations@dayton family medicine
+detailing gone mobile@piercing@performing arts@bars
+auto detailing@restaurants@shopping@bars
+east coast coffee@blush@mediterranean@pool cleaners
+gluten-free@sports clubs@florists@food
+cubesmart self storage@web design@good brakes automotive@beauty & spas
+self storage@public services & government@the bluebird cafe@automotive
+t & t bakery and cafe@restaurants@food@bars
+complete dental care@dentists@cosmetic dentists@sporting goods
+endodontists@education@fitness & instruction@dayton family medicine
+showmars government center@carrabba's italian grill@pool & hot tub service@villa tap
+alize catering@orthodontists@the bluebird cafe@tapas/small plates
+t & y nail spa@gastropubs@mags@pizza
+meineke car care center@british@shopping@gastropubs
+tires@chinese@education@tcby
+senior's barber shop@health & medical@hair salons@real estate
+barbers@endodontists@nurseries & gardening@fitness & instruction
+maxim bakery & restaurant@ice cream & frozen yogurt@t & t bakery and cafe@bars
+starbucks@beauty & spas@restaurants@shopping
+fye@chinese@bars@performing arts
+books@meineke car care center@le bistro balmoral@nurseries & gardening
+mags@home services@restaurants@sandwiches
+music & video@brewster's pub@amy's lash & beauty spa@tattoo
+music & dvds@pizza@tea rooms@dentists
+tsa checkpoint t-4 a - phoenix sky harbor international airport@carrabba's italian grill@sandwiches@international exposition center
+goodlife fitness@the bluebird cafe@burgers@flight deck bar & grill
+sports clubs@gluten-free@women's clothing@gastropubs
+trainers@dentists@cafes@beauty & spas
+sportster's@italian@restaurants@food
+chula taberna mexicana@active life@performing arts@cosmetic dentists
+tiki bars@t & t bakery and cafe@florists@beauty & spas
+alfredo's jewelry@sportster's@nightlife@bars
+davidstea@nightlife@food@restaurants
+panera bread@orthodontists@dayton family medicine@french
+soup@international exposition center@chinese@hair extensions
+salad@watch repair@jewelry@by design
+toast cafe@british@oil change stations@hair stylists
+sunnyside grill@public services & government@hair salons@alfredo's jewelry
+good brakes automotive@restaurants@shopping@food
+smog check stations@automotive@public services & government@beauty & spas
+le bistro balmoral@international exposition center@breakfast & brunch@real estate
+festivals@sportster's@italian@shopping
+bampot house of tea & board games@bars@american (traditional)@sandwiches
+mediterranean@food@bars@tea rooms
+bubbly nails@starlight tattoo@sporting goods@pizza
+brewster's pub@active life@restaurants@food
+pubs@home services@italian@professional services
+kool pool care & repair@auto detailing@italian@specialty schools
+contractors@nail salons@cosmetic dentists@crazy kleen carpet cleaning
+pool & hot tub service@carrabba's italian grill@lapuma bakery@home services
+pool cleaners@beauty & spas@ice cream & frozen yogurt@jewelry repair
+pampered hair passionate about hair@pizza@bagels@screen printing/t-shirt printing
+by design@cosmetic dentists@shopping@performing arts
+furniture stores@arcades@davidstea@local services
+ciao baby catering@ice cream & frozen yogurt@fye@mcdonald's
+caterers@nurseries & gardening@scott's karat patch@dayton family medicine
+yuzu@home services@bars@active life
+izakaya@g g & d motor vehicle services@good brakes automotive@mediterranean
+comfort food@flowers & gifts@chula taberna mexicana@scott's karat patch
+cocktail bars@coffee & tea@fast food@home & garden
+asian fusion@international exposition center@mags@window washing
+japanese@education@pizza@dayton family medicine
+tapas/small plates@dentists@bakeries@public services & government
+task electric@tcby@home services@bagels
+lighting fixtures & equipment@poty group@gastropubs@flight deck bar & grill
+electricians@burgers@food@specialty schools
+tv mounting@mags@sportster's@men's clothing
+tcby@restaurants@coffee & tea@shopping
+olsen firearms@cafes@t & t bakery and cafe@screen printing/t-shirt printing
+guns & ammo@scott's karat patch@shopping@davidstea
+carrabba's italian grill@dentists@restaurants@food
+seafood@ice cream & frozen yogurt@kool radiator service@tiki bars
+charr an american burger bar@nightlife@restaurants@coffee & tea
+william jon salon & spa@tea rooms@american (traditional)@fast food
+tanning@breakfast & brunch@women's clothing@nightlife
+day spas@active life@international exposition center@doctors
+spray tanning@my fitness world@piercing@t & t bakery and cafe
+star nursery@performing arts@auto detailing@education
+nurseries & gardening@coffee & tea@caterers@food
+rock of ages@public services & government@sports bars@ice cream & frozen yogurt
+restaurant lucca@thai express@starbucks@specialty schools
+enterprise rent-a-car@gastropubs@auto repair@bakeries
+car rental@kitchen m@religious organizations@ice cream & frozen yogurt
+flight deck bar & grill@dentists@bars@burgers
+barbeque@oil change stations@education@performing arts
+subway@active life@shopping@local services
+gameworks@performing arts@home services@automotive
+arcades@restaurants@health & medical@coffee & tea
+don taco@starbucks@local services@sporting goods
+my fitness world@cosmetic dentists@shopping@restaurants
+kitchen m@car rental@religious organizations@optometrists
+amy's lash & beauty spa@women's clothing@advertising@auto repair
+eyelash service@day spas@cosmetic dentists@american (new)
+kool radiator service@performing arts@burgers@mcdonald's
+john armond actor's studio@contractors@music & dvds@trainers
+art schools@chinese@beauty & spas@tcby
+cinnabon@sporting goods@event planning & services@screen printing/t-shirt printing
+falls auto body@cafes@general dentistry@christopher huston, md - toca
+body shops@sports bars@dentists@sandwiches
+auto glass services@specialty food@little caesars pizza@alfredo's jewelry
+d&d cleaning@alfredo's jewelry@dental by design@william jon salon & spa
+window washing@florists@food@bars
+river moon cafe@tires@the brink lounge@chinese
+pil son@florists@automotive@coffee & tea
+crazy kleen carpet cleaning@marketing@orthodontists@italian
+office cleaning@health & medical@performing arts@soccer zone
+carpet cleaning@dayton family medicine@pizza@automotive
+ks audio video@hair extensions@burgers@arts & entertainment
+television service providers@sports bars@fast food@local services
+home automation@departments of motor vehicles@carle clinic association@the bluebird cafe
+home theatre installation@music & dvds@fitness & instruction@sandwiches
+the bluebird cafe@coffee & tea@shopping@restaurants
+diners@event planning & services@western motor vehicle@home cleaning
+british@shopping@automotive@dentists
+lapuma bakery@pool & hot tub service@complete dental care@villa tap
+carle clinic association@coffee & tea@bakeries@shopping
+christopher huston, md - toca@falls auto body@dance schools@sports bars
+orthopedists@bampot house of tea & board games@cosmetic dentists@mexican
+banana republic@don taco@panera bread@cinnabon
+crazy mocha coffee@screen printing@strip clubs@web design
+bruegger's bagels@adult entertainment@real estate@web design
+fairfield inn & suites@nightlife@home services@shopping
+hotels@home & garden@salad@blow dry/out services
+g g & d motor vehicle services@tea rooms@orthodontists@fairfield inn & suites
+emergency chiropractic@soccer zone@health & medical@education
+chiropractors@carle clinic association@optometrists@coffee & tea
+little caesars pizza@arts & entertainment@home services@restaurants
+villa tap@professional services@by design@chinese
+dive bars@coffee & tea@food@automotive
+tenors of rock@cosmetic dentists@self storage@scott's karat patch
+starlight tattoo@bubbly nails@starbucks@watch repair
+piercing@restaurants@shopping@food
+tattoo@restaurants@bakeries@automotive
+scott's karat patch@cosmetic dentists@nightlife@restaurants
+jewelry repair@sandwiches@ice cream & frozen yogurt@dentists
+the brink lounge@fairfield inn & suites@education@fraticelli's authentic italian grill
+lounges@advertising@gluten-free@health & medical
+thai express@tea rooms@arts & entertainment@restaurants
+imported food@sporting goods@arcades@sandwiches
+specialty food@any given sundae@auto glass services@fairfield inn & suites
+thai@event planning & services@public services & government@body shops
+ethnic food@coffee & tea@restaurants@nightlife
+havel's flowers & greenhouses@emergency chiropractic@davidstea@gyms
+florists@food@restaurants@nightlife
+wholesale stores@orthodontists@health & medical@restaurants
+flowers & gifts@sporting goods@comfort food@auto repair
+caviness studio@the bluebird cafe@chinese@t & t bakery and cafe
+marketing@crazy kleen carpet cleaning@fast food@dental by design
+graphic design@tattoo@good brakes automotive@local services
+screen printing@brewster's pub@crazy mocha coffee@pil son
+advertising@coffee & tea@restaurants@shopping
+web design@bakeries@auto repair@soccer zone
+screen printing/t-shirt printing@food@shopping@restaurants
+international exposition center@restaurants@nightlife@shopping
+fraticelli's authentic italian grill@bakeries@performing arts@public services & government
+cafe mastrioni@sandwiches@soccer zone@pizza
+poty group@women's clothing@dentists@american (new)
+real estate agents@fitness & instruction@carrabba's italian grill@arcades
+dayton family medicine@restaurants@shopping@food
+optometrists@cosmetic dentists@orthodontists@bars
+internal medicine@performing arts@fast food@automotive
+mitchell's ice cream - solon shop@cuban@gastropubs@optometrists
+city of mesa cemetary@american (new)@orthodontists@breakfast & brunch
+religious organizations@arts & entertainment@car rental@coffee & tea
+flavor cuisine@office cleaning@brewster's pub@fast food
+food court@tea rooms@orthodontists@pool & hot tub service
+la isla cuban restaurant@auto repair@orthodontists@italian
+cuban@bagels@education@orthodontists
+blush@bars@women's clothing@performing arts
+adult entertainment@bruegger's bagels@t & t bakery and cafe@alize catering
+strip clubs@beauty & spas@screen printing/t-shirt printing@breakfast & brunch
+conservatory of dance@auto repair@food@health & medical
+dance schools@christopher huston, md - toca@sportster's@hotels
+dance studios@home & garden@little caesars pizza@gastropubs
+@t & t bakery and cafe@tattoo@performing arts
+<unk>@flowers & gifts@tanning@diners

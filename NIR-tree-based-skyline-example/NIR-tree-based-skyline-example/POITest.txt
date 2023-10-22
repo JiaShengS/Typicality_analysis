@@ -1,0 +1,9 @@
+1^33.3307^-111.9786^pizza steak^0.5^0.7
+2^41.1195^-81.4757^chicken McDonalds^0.6^0.4
+3^33.5249^-112.1153^tea coffee^0.4^0.5
+4^40.2917^-80.1049^chicken McDonalds^0.3^0.6
+5^33.3831^-111.9647^shopping market^0.7^0.9
+6^48.7272^9.14795^bars beer chicken^0.7^0.9
+7^40.6151^-80.0913^chicken McDonalds^0.3^0.5
+8^36.1975^-115.2497^bread sandwiches chicken^0.3^0.4
+9^36.2074^-115.2685^movie drink^0.4^0.3
